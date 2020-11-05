@@ -1,4 +1,4 @@
 <?PHP
-	echo "<h1>Hello!</h1>";
+	echo "<p>Hello!</p>";
 	echo "<p>John Hayes</p>";
 ?>
